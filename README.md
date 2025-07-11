@@ -1,5 +1,7 @@
-#  Fashion MNIST Image Classification
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 
+#  Fashion MNIST Image Classification
 A beginner-friendly image classification project using **Deep Learning** with the **Fashion MNIST** dataset. Built and trained using **TensorFlow** in **Google Colab**.
 
 ---
